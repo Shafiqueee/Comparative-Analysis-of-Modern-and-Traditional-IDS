@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Modern-and-Traditional-IDS
+An end-to-end machine learning–based intrusion detection project using the KDD dataset. Includes the IEEE-format research paper, implementation code, and dataset, with reproducible steps to preprocess data, train supervised models, and evaluate performance (accuracy, precision, recall, F1-score) for detecting normal vs. attack network traffic.
